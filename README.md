@@ -414,6 +414,7 @@ _Blogs, portals, magazines and more_
 
 * [3D Math Primer for Graphics and Game Development](http://www.amazon.com/Math-Primer-Graphics-Game-Development/dp/1568817231/)
 * [Artificial Intelligence for Games](http://www.amazon.com/dp/0123747317?tag=game-prog-books-20)
+* [Classic Game Programming on the NES](https://www.manning.com/books/classic-game-programming-on-the-nes)
 * [Designing Games: A Guide to Engineering Experiences](https://www.amazon.com/Designing-Games-Guide-Engineering-Experiences/dp/1449337937)
 * [Essential Mathematics for Games and Interactive Applications: A Programmer's Guide](http://www.amazon.com/Essential-Mathematics-Games-Interactive-Applications/dp/0123742978/)
 * [Flow](http://www.amazon.com/Flow-The-Psychology-Optimal-Experience/dp/0061339202/)
